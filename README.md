@@ -30,6 +30,12 @@ No configuration required
 | Set Default Device | d |
 | Refresh Device List | r |
 
+# Download
+
+Binaries are available in the [releases](https://github.com/Jkeyuk/Jvol/releases) section.
+
+Simply download the binary run `chmod +x ./jvol` and use where ever you want.
+
 # Building
 
 ### Dependencies
