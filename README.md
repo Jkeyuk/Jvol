@@ -2,6 +2,8 @@
 
 Control your Pulse Audio volume levels with a text user interface from the terminal.
 
+![screenshot](screen.png) 
+
 ### Features
 
 - Control the volume levels for Output and Input devices.
