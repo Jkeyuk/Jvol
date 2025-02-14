@@ -12,7 +12,7 @@ Control your Pulse Audio volume levels with a text user interface from the termi
 
 # Usage
 
-No configuration required
+No configuration required, simply run `jvol`
 
 | Action | Key |
 | -------------- | --------------- |
@@ -30,7 +30,17 @@ No configuration required
 | Set Default Device | d |
 | Refresh Device List | r |
 
-# Download
+# Download/Install
+
+### Arch Linux
+
+You can install Jvol from the AUR. Example using yay.
+
+```bash
+yay -S jvol-git
+```
+
+### Other Linux
 
 Binaries are available in the [releases](https://github.com/Jkeyuk/Jvol/releases) section.
 
